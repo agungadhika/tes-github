@@ -1,4 +1,4 @@
 # tes-github
-git add . 
-git commit -m ""
-git push 
+- git add . 
+- git commit -m ""
+- git push 
