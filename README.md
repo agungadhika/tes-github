@@ -1,5 +1,4 @@
 # tes-github
-hallo 
-duar
-memew
-asw
+git add . 
+git commit -m ""
+git push 
